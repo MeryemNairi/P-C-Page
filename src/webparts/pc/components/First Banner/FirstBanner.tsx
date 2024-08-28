@@ -59,7 +59,7 @@ const FirstBanner: React.FC<FirstBannerProps> = ({ onShowSavoirPlus }) => {
             <div className={styles.FB_content}>
                         <p>
                             
-                           Pour vous, <br /><span style={{color:'#044124'}}> prés de vous</span>
+                           Pour vous, <br /><span style={{color:'#044124'}}> près de vous</span>
                             
                         </p>
                     </div>
