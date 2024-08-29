@@ -115,8 +115,12 @@ const CommPage: React.FC<{ context: WebPartContext }> = ({ context }) => {
             </div>
             <SecondBanner />
             <ThirdPart />
-            <ImageCarousel />
-            <Footer />
+            <div >
+                <ImageCarousel />
+            </div>
+            <div>
+                <Footer />
+            </div>
         </div>
     );
 };
