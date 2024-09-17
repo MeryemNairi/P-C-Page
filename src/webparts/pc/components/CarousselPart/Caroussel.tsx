@@ -54,7 +54,7 @@ const ImageCarousel: React.FC = () => {
             <p>
               Nous sommes heureux de vous informer que, grâce à des conventions établies avec différents établissements, vous pouvez désormais bénéficier de divers avantages et remises simplement en présentant votre badge professionnel. Ces conventions ont été mises en place pour vous offrir des opportunités supplémentaires de bien-être et d'économie au quotidien.
             </p>
-            <button className={styles.conventionButton} onClick={() => window.location.href = 'https://cnexia.sharepoint.com/sites/CnexiaForEveryone/SitePages/ConventionsV5.aspx'}>
+            <button className={styles.conventionButton} onClick={() => window.location.href = 'https://cnexia.sharepoint.com/sites/Cnet/SitePages/Convention.aspx?OR=Teams-HL&CT=1725274539840&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDA3MTEyODgyNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D'}>
               Découvrez l'ensemble des conventions proposées par Cnexia
             </button>
 
