@@ -70,7 +70,7 @@ const ThirdPart : React.FC =() => {
         setActiveIndex(activeIndex === index ? null : index);
       };
       
-    
+  
     const renderQuestionHolders = () => {
         return data.map((item:DataItem, index) => (
           <div className={styles.tsl_question_holder_with_response} key={index}>
